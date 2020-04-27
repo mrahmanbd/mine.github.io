@@ -1,0 +1,33 @@
+*{margin:0; padding:0; outline: 0;}	
+body {font-family: arial; font-size: 14px; line-height: 18px; color: #000;}	
+
+
+.template {width: 960px; margin: 0 auto;}
+.Header {height: 80px;background: black;
+color: white; }
+.Header h2 {
+	text-align: center;
+	padding-top: 29px;
+	font-size: 35px;
+	}
+.Navigation {background:#69c;height: 32px;}
+.Navigation p {text-align: center;
+	color: white;
+	font-size: 20px;
+	padding-top: 5px;
+	}
+	
+
+.Maincontent 
+.Content 
+.Content p
+.Side
+.Side p
+
+.lastline {background: black}
+.lastline p {text-align: center;
+	color: white;
+	font-size: 20px;
+	padding-top: 5px;
+
+	}
